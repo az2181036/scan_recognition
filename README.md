@@ -1,1 +1,3 @@
-Just beginning, and have to learn sth.
+Two api(using Baidu api):
+
+    The details are in ./templates/index.md (Chinese）
