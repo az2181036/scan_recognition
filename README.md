@@ -1,3 +1,4 @@
 Two api(using Baidu api):
-
-    The details are in ./templates/index.md (Chinese）
+    
+    Using Django Rest framework, have to say, easy to learn and quickest develop. 
+    The details of api are in ./templates/index.md (Chinese)
